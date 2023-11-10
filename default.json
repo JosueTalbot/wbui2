@@ -35,9 +35,9 @@
             },
             {
                 "tab3": {
-                    "layout": 3,
+                    "layout": 1,
                     "buttontext": "Eventos",
-                    "title1": "Normas del servidor:",
+                    "title1": "Evento del servidor:",
                     "text1": "ACA SE POSTEARA LOS EVENTOS DEL SERVER.",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
