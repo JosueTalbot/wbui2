@@ -1,1 +1,111 @@
-
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": true,
+            "HideIconAfter": 120,
+            "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+            "DisableIconText": false,
+            "IconPosition": 2,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Bienvenid@s",
+                    "title1": "Bienvenidos a Arkolicos Anonimos PVE No Wipe Hx10 XPx3 Bx15 mods",
+                    "text1": "Bienvenid@s a arkolicos anonimos, un servidor PVE No Wipe, en donde podreis disfrutar de la aventura en ark tranquilamente, eso si, con eventos semanales tanto PVE como PVP. Pronto tendremos puntos, con los que podreis comprar dinos, pinturas, objetos, y cosillas importantes, que se podran ganar jugando, o con donaciones, ya sea la VIP o normales, que seran dedicadas a mejorar el servidor, tanto para añadir mas mapas, como para aumentar slots. De momento los servidores de ark no estan muy estabilizados, por lo que si hay alguna especie de wipe nosotros no tendremos nada que ver, ya que no es la idea.\n\n\nWelcome to Arkolicos Anonymos, a PVE No Wipe server, where you can enjoy the adventure in Ark quietly, with weekly events both PVE and PVP. Soon we will have points, with which you can buy dinos, paintings, objects, and important things, which can be earned by playing, or with donations, whether VIP or normal, which will be dedicated to improving the server, both to add more maps, as to increase slots. At the moment the Ark servers are not very stabilized, so if there is some kind of wipe we will have nothing to do with it, since it is not the idea.",
+                    "imageurl": "https://i.imgur.com/RJEiR7j.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "Reglas",
+                    "title1": "NormasdelServidor:",
+                    "text1": "1-Respeto\n\\2- Si llegáis a un acuerdo de loot, no vale después pedir mas o no dar lo acordado\nSi os apetece pelearos entre 2 tribus, sois libres de luchar entre vosotros, lo que no\npodréis es cancelar una guerra, en mitad de un PVP o raideo. \n4- Los servidores se reinician a las 12 de la mañana y 00 de la noche hora española peninsular\n5- Esta prohibido construir en cuevas de artefacto, o de spam de muchos recursos (Avisaremos, si hacéis caso omiso, petamos todas las estructuras) , en los servidores PVE\n6- Tampoco podéis matar pickeando a alguien con un Ptera, tavis, o demás dinos voladores, y dejándolo caer. (Sanción 3 días de baneo la primera vez, 7 la segunda, y indefinido la tercera).\n7- Esta prohibido tirar dinos salvajes a las bases. (Sanción 3 días de baneo la primera vez, 7 la segunda, y indefinido la tercera).\n8- Cuando haya eventos PVP en el PVE, solo podréis hacer el PVP en dicho evento, para lo que requiera el evento. (Sanción 3 días de baneo la primera vez, 7 la segunda, y indefinido la tercera).",
+                    "title2": "Server rules:",
+                    "text2": "1-Respect.\n2- If you reach a loot agreement, it is not worth asking for more or not giving what was agreed upon. \n3- If you want to fight between 2 tribes, you are free to fight among yourselves, what you will not be able to do is cancel a war, in the middle of a PVP or raid. \n4- The servers restart at 12 in the morning and 00 at night Spanish peninsular time. \n5- It is prohibited to build in artifact caves, or to spam many resources (We will warn you, if you ignore it, we will destroy all structures), on the PVE servers. 6- You also cannot kill by picking someone with a Ptera, tavis, or other flying dinos, and letting them fall. (Sanction 3 days of ban the first time, 7 the second, and indefinite the third). \n7- It is prohibited to throw wild dinos at the bases. (Sanction 3 days of ban the first time, 7 the second, and indefinite the third). 8- When there are PVP events in the PVE, you will only be able to do the PVP in said event, for what the event requires. (Sanction 3 days of ban the first time, 7 the second, and indefinite the third).",
+                    "imageurl": "https://i.imgur.com/aWNajXo.png"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 2,
+                    "buttontext": "Eventos",
+                    "title1": "EventodelServidor:",
+                    "text1": "Este fin de semana viene cargadito, ya que, el viernes para quien quiera, abriremos el coliseo para hacer una peleas, el sábado por la tarde tendremos subastas de jugadores, y el domingo, MRDEAD hará un evento, en este si habrá premio, en el que tendremos carreras de caballos, además de presentarnos su nueva colección otoño-invierno de mochinutrias, ¿os lo vais a perder?.",
+                    "title2": "Server_Event:",
+                    "text2": "This weekend is packed, since, on Friday for whoever wants, we will open the coliseum to have a fight, on Saturday afternoon we will have player auctions, and on Sunday, MRDEAD will have an event, in this one there will be a prize, in which we will have horse races, in addition to presenting their new autumn-winter collection of mochinutrias, are you going to miss it?.",                    
+                    "imageurl": "https://i.imgur.com/e4bF00T.jpg"
+                }
+            },    
+            {
+                "tab4": {
+                    "layout": 2,
+                    "buttontext": "Configuracion",
+                    "title1": "Configuracion:",
+                    "text1": "Crecimiento del cultivo: x10 \n\nCalidad del botin: x1 \n\nVelocidad de tameo: x20 \n\nEclosion: x20 \n\nVelocidad apareamiento: x20 \n\nVelocidad de crecimiento: x20 \n\nFarmeo: x10 \n\nXP: x3.",
+                    "title2": "Setting:",
+                    "text2": "Crop growth: x10 \n\nLoot quality: x1 \n\nSize speed: x20 \n\nHatching: x20 \n\nMating speed: x20 \n\nGrowth speed: x20 \n\nFarming: x10 \n\nXP: x3.",
+                    "imageurl": "https://i.imgur.com/CkhUlOo.png"
+                }
+            
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/wpqUSErS38"
+                }
+            },
+            {
+                "link2": {
+                    "text": "GrupoSteam",
+                    "url": "https://steamcommunity.com/groups/ArkolicosAnonimos"
+                }
+            },
+            {
+                "link3": {
+                    "text": "Trailer",
+                    "url": "https://www.youtube.com/shorts/eWRIHH4RH4Q"
+                }
+            },
+            {
+                "link4": {
+                    "text": "Youtube",
+                    "url": "https://www.youtube.com/channel/UCSTg3ycvLU7kX8aia4pkjnA"
+                }
+            },
+            {
+                "link5": {
+                    "text": "Donaciones",
+                    "url": "https://www.paypal.com/paypalme/ArkolicosAnonimos4?v=1&utm_source=unp&utm_medium=email&utm_campaign=RT000269&utm_unptid=0c85355a-7e4d-11ee-ac51-3cfdfeefc9dd&ppid=RT000269&cnac=ES&rsta=es_ES%28es-ES%29&cust=3MYAHRCTFREUL&unptid=0c85355a-7e4d-11ee-ac51-3cfdfeefc9dd&calc=f536961334e16&unp_tpcid=ppme-social-user-profile-created&page=main%3Aemail%3ART000269&pgrp=main%3Aemail&e=cl&mchn=em&s=ci&mail=sys&appVersion=1.214.0&xt=104038%2C127632"
+                }
+            },
+            {
+                "link6": {
+                    "text": "Twitch",
+                    "url": "https://www.twitch.tv/dmragnar"
+                }
+            },
+            {
+                "link7": {
+                    "text": "TikTok",
+                    "url": "https://www.tiktok.com/@dm_ragnar4?lang=es"
+                }
+            },
+            {
+                "link8": {
+                    "text": "TikTokJT",
+                    "url": "https://www.tiktok.com/@j0tacr?lang=es"
+                }
+            }
+        ]
+    }
+}
